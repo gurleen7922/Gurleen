@@ -8,9 +8,7 @@ package week02;
 public class Student {
     private String name;
     
-    public Student(){
-        
-    }
+    
     public Student(String n){
         this.name = n;        
     }
@@ -21,7 +19,7 @@ public class Student {
     
     public String getName(){
         return this.name;
-    }
+    }ilu ilu
     
     
     
