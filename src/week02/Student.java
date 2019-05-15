@@ -7,10 +7,13 @@ package week02;
 
 public class Student {
     private String name;
+    private int id;
     
-    
-    public Student(String n){
+    public Student(){
+    }
+    public Student(String n, int std){
         this.name = n;        
+        this.id = std;
     }
     
     public void setName(String na){
@@ -19,6 +22,20 @@ public class Student {
     
     public String getName(){
         return this.name;
+    }
+
+    /**
+     * @return the id
+     */
+    public int getId() {
+        return id;
+    }
+
+    /**
+     * @param id the id to set
+     */
+    public void setId(int id) {
+        this.id = id;
     }
     
     
