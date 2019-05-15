@@ -20,17 +20,17 @@ public class StudentTemplate {
     }
     }
 
-    public String getName() {
+    public String getName(){
         return name;
     }
 
     /**
      * @param name the name to set
      */
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String na) {
+        this.name = na;
     }
     
 
-    }
+    
     
