@@ -7,6 +7,7 @@ package week02;
 /*
 *Date of edit:22/5/2019
 *Sajagpreet Singh
+*nandini dangar
 */
 public class Student {
     private String name;
