@@ -20,6 +20,7 @@ public class StudentTester {
         for(int dex=0; dex<list.length; dex++){
             System.out.println(" " + list[dex].getName() + " " + list[dex].getId());
             System.out.println("Test it");
+             System.out.println("Test it");
         }
                 }
 }
