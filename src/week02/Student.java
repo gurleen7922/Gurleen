@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package week02;
-
+/*
+*Date of edit:22/5/2019
+*/
 public class Student {
     private String name;
     private int id;
